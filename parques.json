@@ -149,7 +149,7 @@
   {
     "id": "phantasialand",
     "name": "Phantasialand",
-    "description": "Phantasialand is een attractiepark in het Duitse Brühl ten zuidwesten van Keulen. Het attractiepark is begonnen als sprookjespark en inmiddels uitgegroeid tot een van de best bezochte attractieparken van Europa.",
+    "description": "Phantasialand es un parque de atracciones situado en Brühl (Alemania), al suroeste de Colonia. El parque de atracciones comenzó como un parque de cuentos de hadas y desde entonces se ha convertido en uno de los parques temáticos más visitados de Europa.",
     "countryCode": "de",
     "image": "https://static.phlcdn.de/files/uploads/themenpark/images/sommer/berlin/ga_keyvisual_berlin.jpg",
     "parkType": "THEMEPARK",
@@ -178,7 +178,7 @@
   {
     "id": "disneyland_paris",
     "name": "Disneyland Paris",
-    "description": "Disneyland Paris, eerst Euro Disney Resort en daarna Disneyland Resort Paris, is een attractiepark- en recreatiecomplex in Marne-la-Vallée, een stad in de banlieue van de Franse hoofdstad Parijs.",
+    "description": "Disneyland Paris, primero Euro Disney Resort y después Disneyland Resort Paris, es un parque de atracciones y complejo de ocio situado en Marne-la-Vallée, una ciudad de la banlieue de la capital francesa, París..",
     "countryCode": "fr",
     "image": "https://www.sortiraparis.com/images/80/87950/484853-visuels-disneyland-paris-chateau.jpg",
     "parkType": "THEMEPARK",
@@ -207,7 +207,7 @@
   {
     "id": "disneyland_paris_studios",
     "name": "Walt Disney Studios Park",
-    "description": "Het Walt Disney Studios Park is een attractiepark in Frankrijk en is onderdeel van Disneyland Paris. Het is het tweede attractiepark binnen dit resort, dat geopend werd op 16 maart 2002. Het park ligt in het westen van het resort, pal naast de entree van het Disneyland Park.",
+    "description": "El Parque de los Estudios Walt Disney es un parque de atracciones de Francia que forma parte de Disneyland París. Es el segundo parque temático de este complejo, que abrió sus puertas el 16 de marzo de 2002. El parque está situado al oeste del complejo, justo al lado de la entrada a Disneyland Park..",
     "countryCode": "fr",
     "image": "https://www.magicontheweb.com/wp-content/uploads/2020/09/waltdisneystudiospark.jpg",
     "parkType": "THEMEPARK",
@@ -265,7 +265,7 @@
   {
     "id": "portaventura",
     "name": "Portaventura",
-    "description": "PortAventura World is een Spaans resort met een oppervlakte van 119 hectare gelegen in Salou en Vila-seca bestaand uit onder andere diverse hotels, twee attractieparken, een waterpark, een congrescentrum en een RV park.",
+    "description": "PortAventura World es un complejo turístico español de 119 hectáreas situado en Salou y Vila-seca que consta de varios hoteles, dos parques temáticos, un parque acuático, un centro de convenciones y un parque de autocaravanas, entre otros.",
     "countryCode": "es",
     "image": "https://nl.letsgodigital.org/uploads/2017/11/pretpark-portaventura-salou.jpg",
     "parkType": "THEMEPARK",
@@ -294,7 +294,7 @@
   {
     "id": "ferrariland",
     "name": "Ferrari Land",
-    "description": "Ferrari Land is een Spaans themapark gelegen in het resort PortAventura World in Salou. Het is gewijd aan Ferrari en Italië. Met een oppervlakte van 60.000 m² Ferrari Land ligt naast PortAventura Park, een pretpark uit 1995",
+    "description": "Ferrari Land es un parque temático español situado en el complejo PortAventura World de Salou. Está dedicado a Ferrari y a Italia. Con una superficie de 60.000 m², Ferrari Land está situado junto a PortAventura Park, un parque temático de 1995.",
     "countryCode": "es",
     "image": "https://nl.letsgodigital.org/uploads/2018/03/pretpark-ferrari-land.jpg",
     "parkType": "THEMEPARK",
@@ -738,7 +738,7 @@
   {
     "name": "Parque Warner",
     "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/6c/79/19.jpg",
-    "description": "Parque Warner Madrid is een themapark gelegen op 25 km ten zuidoosten van Madrid, Spanje, in de gemeente San Martín de la Vega.Het plan begon in 1997 en de bouw startte in de eerste helft van 1999.",
+    "description": "Parque Warner Madrid es un parque temático situado a 25 km al sureste de Madrid, España, en el municipio de San Martín de la Vega. La planificación comenzó en 1997 y la construcción se inició en la primera mitad de 1999.",
     "id": "parque-warner",
     "timezone": "",
     "countryCode": "es",
@@ -938,7 +938,7 @@
   {
     "id": "chessington-resort",
     "name": "Chessington world of Adventures",
-    "description": "Chessington World of Adventures is een attractiepark, dierentuin en een hotelcomplex dat ligt in Centraal-Londen, Engeland. Het park werd onder de naam Chessington Zoo geopend in 1931. Naast de dierentuin werd door The Tussauds Group een pretpark gebouwd.",
+    "description": "Chessington World of Adventures es un parque temático, zoológico y complejo hotelero situado en el centro de Londres, Inglaterra. El parque se inauguró con el nombre de Chessington Zoo en 1931. Además del zoo, The Tussauds Group construyó un parque de atracciones.",
     "image": "https://i2-prod.liverpoolecho.co.uk/incoming/article16108222.ece/ALTERNATES/s1200b/0_CS75068432.jpg",
     "parkType": "THEMEPARK",
     "countryCode": "gb",
@@ -1177,7 +1177,7 @@
   },
   {
     "countryCode": "es",
-    "description": "Parque Warner Beach is een waterpark en is een zusterpark van het naastgelegen attractiepark Parque Warner Madrid.",
+    "description": "Parque Warner Beach es un parque acuático hermano del parque de atracciones adyacente Parque Warner Madrid.",
     "id": "parque-warner-beach",
     "image": "https://parquewarnerbeach.parquewarner.com/content/dam/wbe/images/attractions/aquaman/Aquaman.jpg",
     "location": {
@@ -2018,7 +2018,7 @@
   {
     "id": "canadas-wonderland",
     "name": "Canada's Wonderland",
-    "description": "Canada's Wonderland is een attractiepark in Vaughan in Canada, zo´n 30 km ten noorden van Toronto. Het park is eigendom van Cedar Fair Entertainment Company, een parkengroep die vooral bekend is van het park Cedar Point. Het park krijgt jaarlijks tussen 3 en 4 miljoen bezoekers.",
+    "description": "Canada's Wonderland es un parque de atracciones situado en Vaughan, Canadá, a unos 30 km al norte de Toronto. El parque es propiedad de Cedar Fair Entertainment Company, un grupo de parques más conocido por su parque Cedar Point. El parque recibe entre 3 y 4 millones de visitantes al año.",
     "image": "https://pbs.twimg.com/media/E3UDlLOX0AU_Ze-.jpg",
     "parkType": "THEMEPARK",
     "countryCode": "us",
@@ -2180,7 +2180,7 @@
   {
     "id": "kings-island",
     "name": "Kings Island",
-    "description": "Kings Island is een attractiepark in het Amerikaanse Mason, Ohio. Het totale grondoppervlak in bezit van het park is 314 ha maar slechts 147 ha is bebouwd. Kings Island is eigendom van de Cedar Fair Entertainment Company die het park kocht van Paramount Parks.",
+    "description": "Kings Island es un parque de atracciones situado en Mason, Ohio, Estados Unidos. La superficie total del parque es de 314 ha, pero sólo 147 ha están construidas. Kings Island es propiedad de Cedar Fair Entertainment Company, que compró el parque a Paramount Parks.",
     "image": "https://cdn-cloudfront.cfauthx.com/binaries/content/gallery/kings-island/menu/features/ki-orion-menufeaturev2.jpg",
     "parkType": "THEMEPARK",
     "countryCode": "us",
