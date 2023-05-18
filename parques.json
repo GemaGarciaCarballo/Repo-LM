@@ -178,7 +178,7 @@
   {
     "id": "disneyland_paris",
     "name": "Disneyland Paris",
-    "description": "Disneyland Paris, primero Euro Disney Resort y después Disneyland Resort Paris, es un parque de atracciones y complejo de ocio situado en Marne-la-Vallée, una ciudad de la banlieue de la capital francesa, París..",
+    "description": "Disneyland Paris, primero Euro Disney Resort y después Disneyland Resort Paris, es un parque de atracciones y complejo de ocio situado en Marne-la-Vallée, una ciudad de la banlieue de la capital francesa, París.",
     "countryCode": "fr",
     "image": "https://www.sortiraparis.com/images/80/87950/484853-visuels-disneyland-paris-chateau.jpg",
     "parkType": "THEMEPARK",
@@ -207,7 +207,7 @@
   {
     "id": "disneyland_paris_studios",
     "name": "Walt Disney Studios Park",
-    "description": "El Parque de los Estudios Walt Disney es un parque de atracciones de Francia que forma parte de Disneyland París. Es el segundo parque temático de este complejo, que abrió sus puertas el 16 de marzo de 2002. El parque está situado al oeste del complejo, justo al lado de la entrada a Disneyland Park..",
+    "description": "El Parque de los Estudios Walt Disney es un parque de atracciones de Francia que forma parte de Disneyland París. Es el segundo parque temático de este complejo, que abrió sus puertas el 16 de marzo de 2002. El parque está situado al oeste del complejo, justo al lado de la entrada a Disneyland Park.",
     "countryCode": "fr",
     "image": "https://www.magicontheweb.com/wp-content/uploads/2020/09/waltdisneystudiospark.jpg",
     "parkType": "THEMEPARK",
